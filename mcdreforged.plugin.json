@@ -1,16 +1,4 @@
 {
-    "id": "my_plugin",
-    "version": "1.0.0",
-    "name": "My Plugin",
-    "description": "This description is a description to your plugin",
-    "author": [
-        "You"
-    ],
-    "link": "https://github.com/MCDReforged/MCDReforged-PluginTemplate",
-    "dependencies": {
-    },
-
-    "resources": [
-        "lang"
-    ]
+    "id": "fastrunpy",
+    "version": "1.0.0"
 }
